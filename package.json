@@ -1,0 +1,29 @@
+{
+  "name": "open.adventure",
+  "version": "1.0.0",
+  "description": "A proof of concept adventure game featuring OpenAI's GPT API",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkcmoris/open.adventure.git"
+  },
+  "keywords": [
+    "browser-game",
+    "javascript",
+    "html5-canvas",
+    "openai-gpt-api"
+  ],
+  "author": "Ondřej Moravec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkcmoris/open.adventure/issues"
+  },
+  "homepage": "https://github.com/hkcmoris/open.adventure#readme",
+  "dependencies": {
+    "canvas": "^2.11.0",
+    "openai": "^3.2.1"
+  }
+}
