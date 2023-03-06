@@ -24,6 +24,7 @@
   "homepage": "https://github.com/hkcmoris/open.adventure#readme",
   "dependencies": {
     "canvas": "^2.11.0",
+    "dotenv": "^16.0.3",
     "openai": "^3.2.1"
   }
 }

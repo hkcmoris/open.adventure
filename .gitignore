@@ -9,3 +9,5 @@ node_modules/
 
 # Ignore any file that ends with .log
 *.log
+
+*.env
